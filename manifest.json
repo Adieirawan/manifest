@@ -1,0 +1,38 @@
+{
+  "name": "H&F Grafis",
+  "short_name": "H&F Grafis",
+  "start_url": "https://www.hnfgrafis.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Jasa Percetakan Undangan, Undangan Digital, Polaroid, PIN, MUG dan Juga Website.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-LyERltMSkBQ/Xi9xsnSS8iI/AAAAAAAAACo/w1sMlcFrV1sYIlXuwLG310zV6Wke_sUYwCLcBGAsYHQ/s48/H%2526F%2BGrafis.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LyERltMSkBQ/Xi9xsnSS8iI/AAAAAAAAACo/w1sMlcFrV1sYIlXuwLG310zV6Wke_sUYwCLcBGAsYHQ/s72/H%2526F%2BGrafis.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LyERltMSkBQ/Xi9xsnSS8iI/AAAAAAAAACo/w1sMlcFrV1sYIlXuwLG310zV6Wke_sUYwCLcBGAsYHQ/s96/H%2526F%2BGrafis.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LyERltMSkBQ/Xi9xsnSS8iI/AAAAAAAAACo/w1sMlcFrV1sYIlXuwLG310zV6Wke_sUYwCLcBGAsYHQ/s144/H%2526F%2BGrafis.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LyERltMSkBQ/Xi9xsnSS8iI/AAAAAAAAACo/w1sMlcFrV1sYIlXuwLG310zV6Wke_sUYwCLcBGAsYHQ/s168/H%2526F%2BGrafis.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LyERltMSkBQ/Xi9xsnSS8iI/AAAAAAAAACo/w1sMlcFrV1sYIlXuwLG310zV6Wke_sUYwCLcBGAsYHQ/s192/H%2526F%2BGrafis.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LyERltMSkBQ/Xi9xsnSS8iI/AAAAAAAAACo/w1sMlcFrV1sYIlXuwLG310zV6Wke_sUYwCLcBGAsYHQ/s512/H%2526F%2BGrafis.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
